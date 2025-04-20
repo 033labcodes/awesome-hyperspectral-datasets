@@ -2,43 +2,45 @@
 
 > A collection of publicly available datasets for hyperspectral imaging research.
 
-| Name | year | URL |
+| Name | URL | year |
 | --- | --- | --- |
-| Hyperspectral image dataset of unstructured terrains for UGV perception[^1] | 2024 | https://ieee-dataport.org/documents/hyperspectral-image-dataset-unstructured-terrains-ugv-perception |
-| VIS-NIR HSI dataset D2[^2] | 2024 | https://github.com/bianlab/Hyperspectral-imaging-dataset |
-| Hydrocarbon Spill Hyperspectral Dataset[^3] | 2024 | https://ieee-dataport.org/documents/hydrocarbon-spill-hyperspectral-dataset-hshd |
-| PENGUIN HS IMAGE DATASET[^4] | 2024 | https://033labcodes.github.io/igrass24_penguin/ |
-| Hyperspectral Object Tracking Challenge 2024[^5] | 2024 | https://www.hsitracking.com/ |
-| BJTU-UVA-E[^6] | 2024 | https://github.com/duranze/Automatic-spectral-calibration-of-HSI |
-| VIS-NIR HSI dataset D1[^7] | 2024 | https://github.com/bianlab/Hyperspectral-imaging-dataset |
-| BJTU-UVA[^8] | 2024 | https://github.com/duranze/Automatic-spectral-calibration-of-HSI |
-| HyperLeaf2024[^9] | 2024 | https://www.kaggle.com/competitions/HyperLeaf2024 |
-| Cabbage Eggplant Hyperspectral datasets[^10] | 2024 | https://data.mendeley.com/datasets/whgnf4s4bp/1<br>https://data.mendeley.com/datasets/t4rysh9rxf/1<br>https://data.mendeley.com/datasets/cww6zkdcmb/1 |
-| CloudPatch-7[^11] | 2024 | https://ieee-dataport.org/documents/cloudpatch-7-hyperspectral-dataset |
-| Living Optics Orchard Dataset[^12] | 2024 | https://huggingface.co/datasets/LivingOptics/hyperspectral-orchard |
-| hyperspectral image datasets-almond, pistachio, and garlic stems[^13] | 2024 | https://ieee-dataport.org/documents/anomaly-detection-hyperspectral-imaging-food-safety-inspection |
-| UWA Hyperspectral Face Database[^14] | 2023 | https://ieee-dataport.org/documents/uwa-hyperspectral-face-database |
-| Hyper-Skin[^15] | 2023 | https://hyper-skin-2023.github.io/ |
-| DeepHS Fruit v2[^16] | 2023 | https://github.com/cogsys-tuebingen/deephs_fruit |
-| MobiSpectral[^17] | 2023 | https://github.com/mobispectral/mobicom23_mobispectral/ |
-| HSICityV2[^18] | 2022 | https://isis-data.science.uva.nl/cv/HyperspectralCityV2.0/ |
-| LIB-HSI (the Light Industrial Building HS)[^19] | 2022 | https://data.csiro.au/collection/csiro%3A55630v4 |
-| HFD100[^20] | 2022 | https://github.com/ying-fu/HFD100 |
-| TOHS Dataset[^21] | 2022 | https://ieee-dataport.org/documents/tufts-outdoor-hyperspectral-dataset |
-| ARAD 1K[^22] | 2022 | https://github.com/boazarad/ARAD_1K?tab=readme-ov-file |
-| HSIFoodIngr-64[^23] | 2022 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E7WDNQ |
-| OMHS[^24] | 2021 | https://ieee-dataport.org/documents/omhs-objects-mosaic-hyperspectral-database |
-| HSI-Object-Detection-NPU[^25] | 2021 | https://github.com/yanlongbinluck/HSI-Object-Detection-NPU |
-| HSI Road[^26] | 2020 | https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road |
-| Near Infrared Hyperspectral Image Dataset[^27] | 2020 | https://github.com/hacarus/hsi-open-dataset |
-| Cocoa beans spectral image[^28] | 2019 | https://ieee-dataport.org/documents/cocoa-beans-spectral-image-three-fermentation-levels |
-| Dataset for Hyperspectral Clinical Applications[^29] | 2019 | https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral |
-| TokyoTech 59-band Visible-NIR Hyperspectral Image Dataset[^30] | 2019 | http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html |
-| HSIDermoscopy[^31] | 2018 | https://github.com/heugyy/HSIDermoscopy |
-| HS-SOD (HyperSpectral Salient Object Detection Dataset)[^32] | 2018 | https://github.com/gistairc/HS-SOD?tab=readme-ov-file |
-| ICVL[^33] | 2016 | https://huggingface.co/datasets/danaroth/icvl |
-| Real-World Hyperspectral Images Database[^34] | 2011 | https://vision.seas.harvard.edu/hyperspec/download.html |
-| Tecnalia Hyperspectral Dataset[^35] | 2010 | https://zenodo.org/records/12565131 |
+| Hyperspectral image dataset of unstructured terrains for UGV perception[^1] | 2024 | [https://ieee-dataport.org/documents/hyperspectral-image-dataset-unstructured-terrains-ugv-perception](https://ieee-dataport.org/documents/hyperspectral-image-dataset-unstructured-terrains-ugv-perception) |
+| VIS-NIR HSI dataset D2[^2] | 2024 | [https://github.com/bianlab/Hyperspectral-imaging-dataset](https://github.com/bianlab/Hyperspectral-imaging-dataset) |
+| Hydrocarbon Spill Hyperspectral Dataset[^3] | 2024 | [https://ieee-dataport.org/documents/hydrocarbon-spill-hyperspectral-dataset-hshd](https://ieee-dataport.org/documents/hydrocarbon-spill-hyperspectral-dataset-hshd) |
+| PENGUIN HS IMAGE DATASET[^4] | 2024 | [https://033labcodes.github.io/igrass24_penguin/](https://033labcodes.github.io/igrass24_penguin/) |
+| Hyperspectral Object Tracking Challenge 2024[^5] | 2024 | [https://www.hsitracking.com/](https://www.hsitracking.com/) |
+| BJTU-UVA-E[^6] | 2024 | [https://github.com/duranze/Automatic-spectral-calibration-of-HSI](https://github.com/duranze/Automatic-spectral-calibration-of-HSI) |
+| VIS-NIR HSI dataset D1[^7] | 2024 | [https://github.com/bianlab/Hyperspectral-imaging-dataset](https://github.com/bianlab/Hyperspectral-imaging-dataset) |
+| BJTU-UVA[^8] | 2024 | [https://github.com/duranze/Automatic-spectral-calibration-of-HSI](https://github.com/duranze/Automatic-spectral-calibration-of-HSI) |
+| HyperLeaf2024[^9] | 2024 | [https://www.kaggle.com/competitions/HyperLeaf2024](https://www.kaggle.com/competitions/HyperLeaf2024) |
+| Cabbage Eggplant Hyperspectral datasets[^10] | 2024 | [https://data.mendeley.com/datasets/whgnf4s4bp/1](https://data.mendeley.com/datasets/whgnf4s4bp/1)<br>[https://data.mendeley.com/datasets/t4rysh9rxf/1](https://data.mendeley.com/datasets/t4rysh9rxf/1)<br>[https://data.mendeley.com/datasets/cww6zkdcmb/1](https://data.mendeley.com/datasets/cww6zkdcmb/1) |
+| CloudPatch-7[^11] | 2024 | [https://ieee-dataport.org/documents/cloudpatch-7-hyperspectral-dataset](https://ieee-dataport.org/documents/cloudpatch-7-hyperspectral-dataset) |
+| Living Optics Orchard Dataset[^12] | 2024 | [https://huggingface.co/datasets/LivingOptics/hyperspectral-orchard](https://huggingface.co/datasets/LivingOptics/hyperspectral-orchard) |
+| hyperspectral image datasets-almond, pistachio, and garlic stems[^13] | 2024 | [https://ieee-dataport.org/documents/anomaly-detection-hyperspectral-imaging-food-safety-inspection](https://ieee-dataport.org/documents/anomaly-detection-hyperspectral-imaging-food-safety-inspection) |
+| HOD3K[^14] | 2023 | [https://github.com/hexiao0275/S2ADet](https://github.com/hexiao0275/S2ADet) |
+| UWA Hyperspectral Face Database[^15] | 2023 | [https://ieee-dataport.org/documents/uwa-hyperspectral-face-database](https://ieee-dataport.org/documents/uwa-hyperspectral-face-database) |
+| Hyper-Skin[^16] | 2023 | [https://hyper-skin-2023.github.io/](https://hyper-skin-2023.github.io/) |
+| DeepHS Fruit v2[^17] | 2023 | [https://github.com/cogsys-tuebingen/deephs_fruit](https://github.com/cogsys-tuebingen/deephs_fruit) |
+| MobiSpectral[^18] | 2023 | [https://github.com/mobispectral/mobicom23_mobispectral/](https://github.com/mobispectral/mobicom23_mobispectral/) |
+| HSICityV2[^19] | 2022 | [https://isis-data.science.uva.nl/cv/HyperspectralCityV2.0/](https://isis-data.science.uva.nl/cv/HyperspectralCityV2.0/) |
+| LIB-HSI (the Light Industrial Building HS)[^20] | 2022 | [https://data.csiro.au/collection/csiro%3A55630v4](https://data.csiro.au/collection/csiro%3A55630v4) |
+| HFD100[^21] | 2022 | [https://github.com/ying-fu/HFD100](https://github.com/ying-fu/HFD100) |
+| TOHS Dataset[^22] | 2022 | [https://ieee-dataport.org/documents/tufts-outdoor-hyperspectral-dataset](https://ieee-dataport.org/documents/tufts-outdoor-hyperspectral-dataset) |
+| ARAD 1K[^23] | 2022 | [https://github.com/boazarad/ARAD_1K?tab=readme-ov-file](https://github.com/boazarad/ARAD_1K?tab=readme-ov-file) |
+| HSIFoodIngr-64[^24] | 2022 | [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E7WDNQ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E7WDNQ) |
+| HSI-1[^25] | 2021 | [https://github.com/hexiao0275/S2ADet](https://github.com/hexiao0275/S2ADet) |
+| OMHS[^26] | 2021 | [https://ieee-dataport.org/documents/omhs-objects-mosaic-hyperspectral-database](https://ieee-dataport.org/documents/omhs-objects-mosaic-hyperspectral-database) |
+| HSI-Object-Detection-NPU[^27] | 2021 | [https://github.com/yanlongbinluck/HSI-Object-Detection-NPU](https://github.com/yanlongbinluck/HSI-Object-Detection-NPU) |
+| HSI Road[^28] | 2020 | [https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road) |
+| Near Infrared Hyperspectral Image Dataset[^29] | 2020 | [https://github.com/hacarus/hsi-open-dataset](https://github.com/hacarus/hsi-open-dataset) |
+| Cocoa beans spectral image[^30] | 2019 | [https://ieee-dataport.org/documents/cocoa-beans-spectral-image-three-fermentation-levels](https://ieee-dataport.org/documents/cocoa-beans-spectral-image-three-fermentation-levels) |
+| Dataset for Hyperspectral Clinical Applications[^31] | 2019 | [https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral](https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral) |
+| TokyoTech 59-band Visible-NIR Hyperspectral Image Dataset[^32] | 2019 | [http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html](http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html) |
+| HSIDermoscopy[^33] | 2018 | [https://github.com/heugyy/HSIDermoscopy](https://github.com/heugyy/HSIDermoscopy) |
+| HS-SOD (HyperSpectral Salient Object Detection Dataset)[^34] | 2018 | [https://github.com/gistairc/HS-SOD?tab=readme-ov-file](https://github.com/gistairc/HS-SOD?tab=readme-ov-file) |
+| ICVL[^35] | 2016 | [https://huggingface.co/datasets/danaroth/icvl](https://huggingface.co/datasets/danaroth/icvl) |
+| Real-World Hyperspectral Images Database[^36] | 2011 | [https://vision.seas.harvard.edu/hyperspec/download.html](https://vision.seas.harvard.edu/hyperspec/download.html) |
+| Tecnalia Hyperspectral Dataset[^37] | 2010 | [https://zenodo.org/records/12565131](https://zenodo.org/records/12565131) |
 
 [^1]: Dhanushka Liyanage, Mart Tamre, Robert Hudjakov, February 3, 2024, "Hyperspectral image dataset of unstructured terrains for UGV perception", IEEE Dataport, doi: https://dx.doi.org/10.21227/13bf-pa49.
 
@@ -67,49 +69,52 @@
 
 [^13]: J. Lee, M. Kim, J. Yoon, K. Yoo and S.-J. Byun, "Anomaly detection with hyperspectral imaging for food safety inspection", 2024.
 
-[^14]: Muhammad Uzair, Zohaib Khan, Arif Mahmood, Faisal Shafait, Ajmal Mian, March 28, 2023, "UWA Hyperspectral Face Database", IEEE Dataport, doi: https://dx.doi.org/10.21227/8714-kx37.
+[^14]: X. He, C. Tang, X. Liu, W. Zhang, K. Sun and J. Xu, "Object Detection in Hyperspectral Image via Unified Spectral–Spatial Feature Aggregation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-13, 2023, Art no. 5521213, doi: 10.1109/TGRS.2023.3307288. 
 
-[^15]: Pai Chet Ng, Zhixiang Chi, Yannick Verdie, Juwei Lu, and Konstantinos N. Plataniotis, "Hyper-Skin: a hyperspectral dataset for reconstructing facial skin-spectra from RGB images," Proceedings of the 37th International Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, LA, USA, 2023, Art. no. 1050, pp. 1-13.
+[^15]: Muhammad Uzair, Zohaib Khan, Arif Mahmood, Faisal Shafait, Ajmal Mian, March 28, 2023, "UWA Hyperspectral Face Database", IEEE Dataport, doi: https://dx.doi.org/10.21227/8714-kx37.
 
-[^16]: L. A. Varga, J. Makowski and A. Zell, "Measuring the Ripeness of Fruit with Hyperspectral Imaging and Deep Learning," 2021 International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021, pp. 1-8, doi: 10.1109/IJCNN52387.2021.9533728.
+[^16]: Pai Chet Ng, Zhixiang Chi, Yannick Verdie, Juwei Lu, and Konstantinos N. Plataniotis, "Hyper-Skin: a hyperspectral dataset for reconstructing facial skin-spectra from RGB images," Proceedings of the 37th International Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, LA, USA, 2023, Art. no. 1050, pp. 1-13.
 
-[^17]: N. Sharma, M. S. Waseem, S. Mirzaei, and M. Hefeeda, “MobiSpectral: Hyperspectral Imaging on Mobile Devices,” in Proc. 29th Annu. Int. Conf. Mobile Computing and Networking (ACM MobiCom), Madrid, Spain, 2023, doi: 10.1145/3570361.3613296.
+[^17]: L. A. Varga, J. Makowski and A. Zell, "Measuring the Ripeness of Fruit with Hyperspectral Imaging and Deep Learning," 2021 International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021, pp. 1-8, doi: 10.1109/IJCNN52387.2021.9533728.
 
-[^18]: Y. Huang, T. Ren, Q. Shen, Y. Fu, and S. You, “HSICityV2: Urban Scene Understanding via Hyperspectral Images,” Zenodo, 2021. [Online]. Available: https://doi.org/10.5281/zenodo.703085
+[^18]: N. Sharma, M. S. Waseem, S. Mirzaei, and M. Hefeeda, “MobiSpectral: Hyperspectral Imaging on Mobile Devices,” in Proc. 29th Annu. Int. Conf. Mobile Computing and Networking (ACM MobiCom), Madrid, Spain, 2023, doi: 10.1145/3570361.3613296.
 
-[^19]: N. Habili, E. Kwan, W. Li, C. Webers, J. Oorloff, M. A. Armin, and L. Petersson, “A hyperspectral and RGB dataset for building façade segmentation,” in Proc. ECCV 2022 Workshops, Tel Aviv, Israel, Oct. 23–27, 2022, Part VII, pp. 258–267, Springer, 2023.
+[^19]: Y. Huang, T. Ren, Q. Shen, Y. Fu, and S. You, “HSICityV2: Urban Scene Understanding via Hyperspectral Images,” Zenodo, 2021. [Online]. Available: https://doi.org/10.5281/zenodo.703085
 
-[^20]: Y. Zheng, T. Zhang, and Y. Fu, “A large-scale hyperspectral dataset for flower classification,” Knowledge-Based Systems, vol. 236. Elsevier BV, p. 107647, Jan. 2022. doi: 10.1016/j.knosys.2021.107647.
+[^20]: N. Habili, E. Kwan, W. Li, C. Webers, J. Oorloff, M. A. Armin, and L. Petersson, “A hyperspectral and RGB dataset for building façade segmentation,” in Proc. ECCV 2022 Workshops, Tel Aviv, Israel, Oct. 23–27, 2022, Part VII, pp. 258–267, Springer, 2023.
 
-
-[^21]: A. Stone, S. P. Rao, S. Rajeev, K. Panetta and S. Agaian, "A Comprehensive 2D + 3D Dataset for Benchmarking Hyperspectral Imaging Systems," 2022 IEEE International Symposium on Technologies for Homeland Security (HST), Boston, MA, USA, 2022, pp. 1-5, doi: 10.1109/HST56032.2022.10024982.
-
-[^22]: B. Arad et al., "NTIRE 2022 Spectral Recovery Challenge and Data Set," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), New Orleans, LA, USA, 2022, pp. 862-880, doi: 10.1109/CVPRW56347.2022.00102.
-
-[^23]: X. Xia, W. Liu, L. Wang and J. Sun, "HSIFoodIngr-64: A Dataset for Hyperspectral Food-Related Studies and a Benchmark Method on Food Ingredient Retrieval," in IEEE Access, vol. 11, pp. 13152-13162, 2023, doi: 10.1109/ACCESS.2023.3243243. 
-
-[^24]: Jonathan Hauser, Gal Shtendel, Amit Zeligman, Amir Averbuch, Menachem Nathan, Moshe Salhov, May 5, 2021, "OMHS - The Objects Mosaic Hyperspectral Database", IEEE Dataport, doi: https://dx.doi.org/10.21227/36g6-r506.
-
-[^25]: L. Yan, M. Zhao, X. Wang, Y. Zhang, and J. Chen, “Object detection in hyperspectral images,” IEEE Signal Process. Lett., vol. 28, pp. 508–512, 2021.
-
-[^26]: J. Lu, H. Liu, Y. Yao, S. Tao, Z. Tang and J. Lu, "Hsi Road: A Hyper Spectral Image Dataset For Road Segmentation," 2020 IEEE International Conference on Multimedia and Expo (ICME), London, UK, 2020, pp. 1-6, doi: 10.1109/ICME46284.2020.9102890.
-
-[^27]: hacarus, “GitHub - hacarus/hsi-open-dataset,” GitHub, 2020. https://github.com/hacarus/hsi-open-dataset (accessed Apr. 19, 2025).
-
-[^28]: Carlos Hinojosa, Karen Sanchez, Hans Garcia, Henry Arguello, December 10, 2019, "Cocoa beans spectral image with three fermentation levels", IEEE Dataport, doi: https://dx.doi.org/10.21227/esks-4b74.
-
-[^29]: Himar Fabelo, Samuel Ortega, Raquel León, Gustavo Callico, August 28, 2019, "Dataset: Parallel Implementations Assessment of a Spatial-Spectral Classifier for Hyperspectral Clinical Applications", IEEE Dataport, doi: https://dx.doi.org/10.21227/pn25-nj87.
-
-[^30]: Y. Monno, H. Teranaka, K. Yoshizaki, M. Tanaka, and M. Okutomi, “Single-sensor RGB-NIR imaging: High-quality system design and prototype implementation,” IEEE Sens. J., vol. 19, no. 2, pp. 497–507, 2018.
-
-[^31]: Y. Gu, Y.-P. Partridge, and J. Zhou, “A Hyperspectral Dermoscopy Dataset for Melanoma Detection,” Lecture Notes in Computer Science. Springer International Publishing, pp. 268–276, 2018. doi: 10.1007/978-3-030-01201-4_29.
+[^21]: Y. Zheng, T. Zhang, and Y. Fu, “A large-scale hyperspectral dataset for flower classification,” Knowledge-Based Systems, vol. 236. Elsevier BV, p. 107647, Jan. 2022. doi: 10.1016/j.knosys.2021.107647.
 
 
-[^32]: N. Imamoglu, Y. Oishi, X. Zhang, G. Ding, Y. Fang, T. Kouyama, and R. Nakamura, “Hyperspectral image dataset for benchmarking on salient object detection,” in Proc. 10th Int. Conf. Quality of Multimedia Experience (QoMEX), 2018, pp. 1–3, doi: 10.1109/QoMEX.2018.8463428.
+[^22]: A. Stone, S. P. Rao, S. Rajeev, K. Panetta and S. Agaian, "A Comprehensive 2D + 3D Dataset for Benchmarking Hyperspectral Imaging Systems," 2022 IEEE International Symposium on Technologies for Homeland Security (HST), Boston, MA, USA, 2022, pp. 1-5, doi: 10.1109/HST56032.2022.10024982.
 
-[^33]: B. Arad and O. Ben-Shahar, “Sparse Recovery of Hyperspectral Signal from Natural RGB Images,” Computer Vision – ECCV 2016, pp. 19–34, 2016, doi: https://doi.org/10.1007/978-3-319-46478-7_2.
+[^23]: B. Arad et al., "NTIRE 2022 Spectral Recovery Challenge and Data Set," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), New Orleans, LA, USA, 2022, pp. 862-880, doi: 10.1109/CVPRW56347.2022.00102.
 
-[^34]: A. Chakrabarti and T. Zickler, "Statistics of real-world hyperspectral images," CVPR 2011, Colorado Springs, CO, USA, 2011, pp. 193-200, doi: 10.1109/CVPR.2011.5995660.
+[^24]: X. Xia, W. Liu, L. Wang and J. Sun, "HSIFoodIngr-64: A Dataset for Hyperspectral Food-Related Studies and a Benchmark Method on Food Ingredient Retrieval," in IEEE Access, vol. 11, pp. 13152-13162, 2023, doi: 10.1109/ACCESS.2023.3243243. 
 
-[^35]: A. Picon, O. Ghita, P. M. Iriondo, A. Bereciartua and P. F. Whelan, "Automation of waste recycling using hyperspectral image analysis," 2010 IEEE 15th Conference on Emerging Technologies & Factory Automation (ETFA 2010), Bilbao, Spain, 2010, pp. 1-4, doi: 10.1109/ETFA.2010.5641201.
+[^25]: L. Yan, M. Zhao, X. Wang, Y. Zhang and J. Chen, "Object Detection in Hyperspectral Images," in IEEE Signal Processing Letters, vol. 28, pp. 508-512, 2021, doi: 10.1109/LSP.2021.3059204.
 
+[^26]: Jonathan Hauser, Gal Shtendel, Amit Zeligman, Amir Averbuch, Menachem Nathan, Moshe Salhov, May 5, 2021, "OMHS - The Objects Mosaic Hyperspectral Database", IEEE Dataport, doi: https://dx.doi.org/10.21227/36g6-r506.
+
+[^27]: L. Yan, M. Zhao, X. Wang, Y. Zhang, and J. Chen, “Object detection in hyperspectral images,” IEEE Signal Process. Lett., vol. 28, pp. 508–512, 2021.
+
+[^28]: J. Lu, H. Liu, Y. Yao, S. Tao, Z. Tang and J. Lu, "Hsi Road: A Hyper Spectral Image Dataset For Road Segmentation," 2020 IEEE International Conference on Multimedia and Expo (ICME), London, UK, 2020, pp. 1-6, doi: 10.1109/ICME46284.2020.9102890.
+
+[^29]: hacarus, “GitHub - hacarus/hsi-open-dataset,” GitHub, 2020. https://github.com/hacarus/hsi-open-dataset (accessed Apr. 19, 2025).
+
+[^30]: Carlos Hinojosa, Karen Sanchez, Hans Garcia, Henry Arguello, December 10, 2019, "Cocoa beans spectral image with three fermentation levels", IEEE Dataport, doi: https://dx.doi.org/10.21227/esks-4b74.
+
+[^31]: Himar Fabelo, Samuel Ortega, Raquel León, Gustavo Callico, August 28, 2019, "Dataset: Parallel Implementations Assessment of a Spatial-Spectral Classifier for Hyperspectral Clinical Applications", IEEE Dataport, doi: https://dx.doi.org/10.21227/pn25-nj87.
+
+[^32]: Y. Monno, H. Teranaka, K. Yoshizaki, M. Tanaka, and M. Okutomi, “Single-sensor RGB-NIR imaging: High-quality system design and prototype implementation,” IEEE Sens. J., vol. 19, no. 2, pp. 497–507, 2018.
+
+[^33]: Y. Gu, Y.-P. Partridge, and J. Zhou, “A Hyperspectral Dermoscopy Dataset for Melanoma Detection,” Lecture Notes in Computer Science. Springer International Publishing, pp. 268–276, 2018. doi: 10.1007/978-3-030-01201-4_29.
+
+
+[^34]: N. Imamoglu, Y. Oishi, X. Zhang, G. Ding, Y. Fang, T. Kouyama, and R. Nakamura, “Hyperspectral image dataset for benchmarking on salient object detection,” in Proc. 10th Int. Conf. Quality of Multimedia Experience (QoMEX), 2018, pp. 1–3, doi: 10.1109/QoMEX.2018.8463428.
+
+[^35]: B. Arad and O. Ben-Shahar, “Sparse Recovery of Hyperspectral Signal from Natural RGB Images,” Computer Vision – ECCV 2016, pp. 19–34, 2016, doi: https://doi.org/10.1007/978-3-319-46478-7_2.
+
+[^36]: A. Chakrabarti and T. Zickler, "Statistics of real-world hyperspectral images," CVPR 2011, Colorado Springs, CO, USA, 2011, pp. 193-200, doi: 10.1109/CVPR.2011.5995660.
+
+[^37]: A. Picon, O. Ghita, P. M. Iriondo, A. Bereciartua and P. F. Whelan, "Automation of waste recycling using hyperspectral image analysis," 2010 IEEE 15th Conference on Emerging Technologies & Factory Automation (ETFA 2010), Bilbao, Spain, 2010, pp. 1-4, doi: 10.1109/ETFA.2010.5641201.
