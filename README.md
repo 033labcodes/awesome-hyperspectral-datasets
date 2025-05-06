@@ -140,3 +140,17 @@
 [^42]: A. Picon, O. Ghita, P. M. Iriondo, A. Bereciartua and P. F. Whelan, "Automation of waste recycling using hyperspectral image analysis," 2010 IEEE 15th Conference on Emerging Technologies & Factory Automation (ETFA 2010), Bilbao, Spain, 2010, pp. 1-4, doi: 10.1109/ETFA.2010.5641201.
 
 [^43]: F. Yasuma, T. Mitsunaga, D. Iso and S. K. Nayar, "Generalized Assorted Pixel Camera: Postcapture Control of Resolution, Dynamic Range, and Spectrum," in IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2241-2253, Sept. 2010, doi: 10.1109/TIP.2010.2046811.
+
+## Maintainer Information
+This repository is maintained by **[033 Laboratory](https://033lab.org/#)** at Tokyo Denki University. 
+The following individuals are responsible for maintaining this repository:
+
+- **Keita Ogawa**
+    -  Email: 25amj08@ms.dendai.ac.jp
+
+- **Youta Noboru**
+
+If you have any questions or suggestions, please feel free to contact the maintainers via the provided email address or by openng an issue in this repository.
+
+## Acknowledgements
+We would like to express our sincere gratitude to the researchers, institutions, and organizations who have contributed to the development and sharing of hyperspectral datasets. 
