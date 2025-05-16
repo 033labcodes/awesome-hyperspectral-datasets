@@ -149,6 +149,7 @@ The following individuals are responsible for maintaining this repository:
     -  Email: 25amj08@ms.dendai.ac.jp
 
 - **Youta Noboru**
+    -  Email: 24amj29@ms.dendai.ac.jp   
 
 If you have any questions or suggestions, please feel free to contact the maintainers via the provided email address or by openng an issue in this repository.
 
