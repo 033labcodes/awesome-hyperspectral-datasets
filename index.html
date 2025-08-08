@@ -40,6 +40,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
   <script defer src="static/js/fontawesome.all.min.js"></script>
   <script src="static/js/bulma-carousel.min.js"></script>
   <script src="static/js/bulma-slider.min.js"></script>
@@ -123,6 +124,36 @@
   </div>
 </section>
 <!-- End paper abstract -->
+
+<!-- Table of datasets -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">Hyperspectral Datasets</h2>
+        <div class="table-container">
+          <table class="table is-striped is-hoverable is-fullwidth" id="datasets-table">
+            <thead>
+              <tr>
+                <th class="sortable" data-sort="dataset">Dataset Name</th>
+                <th class="sortable" data-sort="year">Year</th>
+                <th class="sortable" data-sort="task">Task</th>
+                <th class="sortable" data-sort="images">#Images</th>
+                <th class="sortable" data-sort="size">Size (WxH)</th>
+                <th class="sortable" data-sort="bands">#Bands</th>
+                <th class="sortable" data-sort="wavelength">Wavelength (nm)</th>
+              </tr>
+            </thead>
+            <tbody id="datasets-tbody">
+              
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Table of datasets-->
 
   <footer class="footer">
   <div class="container">
