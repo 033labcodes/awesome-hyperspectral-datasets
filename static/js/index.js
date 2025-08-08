@@ -26,8 +26,19 @@ $(document).ready(function() {
 })
 
 function initializeTable() {
+    applyQueryParamToSearch();
 	loadTableData();
 	setupSorting();
+}
+function applyQueryParamToSearch() {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) {
+        const el = document.getElementById('search-input');
+        if (el) {
+            el.value = q;
+        }
+    }
 }
 
 function loadTableData() {
@@ -44,6 +55,16 @@ function loadTableData() {
                 allDatasets = datasets;
 				renderTable(datasets);
 				setupSearch();
+                const params = new URLSearchParams(window.location.search);
+                const q = params.get('q');
+                if (q) {
+                    const el = document.getElementById('search-input');
+                    if (el) {
+                        el.value = q;
+                        el.dispatchEvent(new Event('input', { bubbles: true }));
+                    }
+                }
+                
 			} catch (parseError) {
 				console.error('YAML parsing error:', parseError);
 				const datasets = parseYAMLSimple(yamlText);
@@ -57,6 +78,7 @@ function loadTableData() {
 			document.getElementById('datasets-tbody').innerHTML = 
 				'<tr><td colspan="8" class="has-text-centered">Error loading YAML file</td></tr>';
 		});
+        
 }
 
 function parseYAML(yamlText) {

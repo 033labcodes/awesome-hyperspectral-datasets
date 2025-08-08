@@ -1,7 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
+  <link rel="canonical" href="https://033labcodes.github.io/awesome-hyperspectral-datasets/">
+  
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Awesome Hyperspectral Datasets">
+  
   <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
   <!-- Replace the content tag with appropriate information -->
   <meta name="description" content="A curated list of publicly available datasets for hyperspectral imaging research. This list is intended to support researchers at the initial stages of working with hyperspectral images.">
@@ -22,7 +28,28 @@
   <!-- Keywords for your paper to be indexed by-->
   <meta name="keywords" content="hyperspectral dataset, hyperspectral imaging, computer vision, machine learning, hyperspectral imaging research, academic datasets, open datasets">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="googlebot" content="index, follow">
   <meta name="robots" content="index, follow">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Awesome Hyperspectral Datasets",
+      "url": "https://033labcodes.github.io/awesome-hyperspectral-datasets/",
+      "description": "A curated list of publicly available datasets for hyperspectral imaging research. This list is intended to support researchers at the initial stages of working with hyperspectral images.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://033labcodes.github.io/awesome-hyperspectral-datasets/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
+
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="https://033labcodes.github.io/awesome-hyperspectral-datasets/sitemap.xml">
 
 
   <title>Awesome Hyperspectral Datasets</title>
@@ -38,12 +65,12 @@
   href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="static/css/index.css">
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-  <script src="static/js/bulma-carousel.min.js"></script>
-  <script src="static/js/bulma-slider.min.js"></script>
-  <script src="static/js/index.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" defer></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" defer></script>
+  <script src="static/js/bulma-carousel.min.js" defer></script>
+  <script src="static/js/bulma-slider.min.js" defer></script>
+  <script src="static/js/index.js" defer></script>
 </head>
 <body>
 
@@ -74,7 +101,7 @@
                     <div class="publication-links">
                   <!-- Github link -->
                   <span class="link-block">
-                    <a href="https://github.com/033labcodes/awesome-hyperspectral-datasets" target="_blank"
+                    <a href="https://github.com/033labcodes/awesome-hyperspectral-datasets" target="_blank" rel="noopener noreferrer"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                       <i class="fab fa-github"></i>
@@ -89,7 +116,7 @@
           <div class="column">
             <div class="content has-text-centered">
               <figure class="image">
-                <a href="https://github.com/033labcodes/awesome-hyperspectral-datasets" target="_blank">
+                <a href="https://github.com/033labcodes/awesome-hyperspectral-datasets" target="_blank" rel="noopener noreferrer">
                   <img src="static/images/table-example.png" alt="Table Example">
                 </a>
                 <figcaption><strong>Example of the dataset table</strong></figcaption>
@@ -134,7 +161,7 @@
         <!-- Search input -->
         <div class="field has-addons has-addons-centered" style="margin-bottom: 2rem;">
           <div class="control has-icons-left" style="width: 100%; max-width: 500px;">
-            <input class="input is-medium" type="text" id="search-input" placeholder="Search for datasets...">
+            <input class="input is-medium" type="text" id="search-input" placeholder="Search for datasets..." aria-label="Search datasets">
             <span class="icon is-left">
               <i class="fas fa-search"></i>
             </span>
