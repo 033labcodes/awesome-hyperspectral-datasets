@@ -1,0 +1,563 @@
+- bands: '16'
+  dataset: Beyond RGB
+  images: '1680'
+  ref: "O. Glatt\_et al., \"Beyond RGB: A Real World Dataset for Multispectral Imaging\
+    \ in Mobile Devices,\"\_2024 IEEE/CVF Winter Conference on Applications of Computer\
+    \ Vision (WACV), Waikoloa, HI, USA, 2024, pp. 4332-4342, doi: 10.1109/WACV57701.2024.00429."
+  size: 2584x1936
+  spectral_resolution: .nan
+  task: .nan
+  url: https://github.com/shirawerman/Beyond-RGB
+  wavelength: 380-730
+  year: 2024
+- bands: '186'
+  dataset: Pinot Noir maturity status HS Dataset
+  images: '9'
+  ref: "H. Lyu, M. Grafton, T. Ramilan, M. Irwin, and E. Sandoval, \u201CSynthetic\
+    \ hyperspectral reflectance data augmentation by generative adversarial network\
+    \ to enhance grape maturity determination,\u201D Computers and Electronics in\
+    \ Agriculture, vol. 235. Elsevier BV, p. 110341, Aug. 2025. doi: 10.1016/j.compag.2025.110341.\n"
+  size: '- (1800 pixel)'
+  spectral_resolution: '3.26'
+  task: regression
+  url: https://github.com/hlyu821/GANs
+  wavelength: 406.8-995.8
+  year: 2025
+- bands: '200'
+  dataset: HSOD-BIT-V2
+  images: '500'
+  ref: "Y. Qiu, S. Bai, T. Xu, P. Liu, H. Qin, and J. Li, \"HSOD-BIT-V2: A Challenging\
+    \ Benchmark for Hyperspectral Salient Object Detection,\" Proceedings of the AAAI\
+    \ Conference on Artificial Intelligence, vol. 39, no. 6, pp. 6630\u2013663\n"
+  size: 1240x1680
+  spectral_resolution: '3'
+  task: salient object detection
+  url: https://github.com/QYH-BIT/HSOD-BIT-V2?tab=readme-ov-file
+  wavelength: 400-1000
+  year: 2025
+- bands: '462'
+  dataset: CloudPatch-7
+  images: '444'
+  ref: 'Hua Yan, Rachel Zheng, Shivaji Mallela, Brandon Boehm, Sameer Shaga, Derienne
+    Black, Luis Cueva Parra, Randy Russell, Olcay Kursun, May 18, 2024, "CloudPatch-7
+    Hyperspectral Dataset", IEEE Dataport, doi: https://dx.doi.org/10.21227/fgb9-qs51.'
+  size: 50x50
+  spectral_resolution: '1.90'
+  task: classification
+  url: https://ieee-dataport.org/documents/cloudpatch-7-hyperspectral-dataset
+  wavelength: 400-1000
+  year: 2024
+- bands: '151'
+  dataset: PENGUIN HS IMAGE DATASET
+  images: '990'
+  ref: "Y. Noboru, Y. Ozasa, and M. Tanaka, \u201CHyperspectral Image Dataset for\
+    \ Individual Penguin Identification,\u201D IGARSS 2024 - 2024 IEEE International\
+    \ Geoscience and Remote Sensing Symposium. IEEE, pp. 9383\u20139387, Jul. 07,\
+    \ 2024. doi: 10.1109/igarss53475.2024.10642522."
+  size: 2048x1080
+  spectral_resolution: '5'
+  task: classification
+  url: https://033labcodes.github.io/igrass24_penguin/
+  wavelength: 350-1100
+  year: 2024
+- bands: .nan
+  dataset: Hyperspectral Object Tracking Challenge 2024
+  images: .nan
+  ref: "F. Xiong, J. Zhou, C. Wouter, Y. Zhong, G. Pedram, and C. Jocelyn, \u201C\
+    The hyperspectral object tracking challenge (HOT2024),\u201D [Online]. Available:\
+    \ https://www.hsitracking.com/, 2024."
+  size: .nan
+  spectral_resolution: .nan
+  task: object tracking
+  url: https://www.hsitracking.com/
+  wavelength: .nan
+  year: 2024
+- bands: '61'
+  dataset: VIS-NIR HSI database D1
+  images: '500'
+  ref: "Bian, L., Wang, Z., Zhang, Y.\_et al.\_A broadband hyperspectral image sensor\
+    \ with high spatio-temporal resolution.\_Nature\_635, 73\u201381 (2024). do10.1038/s41586-024-08109-1"
+  size: 960x1230
+  spectral_resolution: '10'
+  task: .nan
+  url: https://github.com/bianlab/Hyperspectral-imaging-dataset
+  wavelength: 400-1000
+  year: 2024
+- bands: '131'
+  dataset: VIS-NIR HSI database D2
+  images: '500'
+  ref: "Bian, L., Wang, Z., Zhang, Y.\_et al.\_A broadband hyperspectral image sensor\
+    \ with high spatio-temporal resolution.\_Nature\_635, 73\u201381 (2024). do10.1038/s41586-024-08109-1"
+  size: 640x660
+  spectral_resolution: '10'
+  task: .nan
+  url: https://github.com/bianlab/Hyperspectral-imaging-dataset
+  wavelength: 400-1700
+  year: 2024
+- bands: '204'
+  dataset: HyperLeaf2024
+  images: '2410'
+  ref: "W. M. Laprade\_et al., \u201CHyperLeaf2024 \u2013 A Hyperspectral Imaging\
+    \ Dataset for Classification and Regression of Wheat Leaves,\u201D\_2024 IEEE/CVF\
+    \ Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), pp.\
+    \ 1234\u20131243, Jun. 2024, doi:  10.1109/cvprw63382.2024.00130."
+  size: 512x512
+  spectral_resolution: '7'
+  task: classification
+  url: https://www.kaggle.com/competitions/HyperLeaf2024
+  wavelength: 400-1000
+  year: 2024
+- bands: .nan
+  dataset: Cabbage Eggplant Hyperspectral datasets
+  images: .nan
+  ref: "V. K. Munipalle, U. R. Nelakuditi, M. K. C\uFF0EV\uFF0ES\uFF0ES\uFF0E, and\
+    \ R. R. Nidamanuri, \u201CUltra-high-resolution hyperspectral imagery datasets\
+    \ for precision agriculture applications,\u201D Data in Brief, vol. 55. Elsevier\
+    \ BV, p. 110649, Aug. 2024. doi: 10.1016/j.dib.2024.110649."
+  size: .nan
+  spectral_resolution: '3'
+  task: classification
+  url: https://data.mendeley.com/datasets/whgnf4s4bp/1, https://data.mendeley.com/datasets/t4rysh9rxf/1,
+    https://data.mendeley.com/datasets/cww6zkdcmb/1
+  wavelength: 400-900
+  year: 2024
+- bands: '204'
+  dataset: BJTU-UVA
+  images: '765'
+  ref: "Z. Du, S. You, C. Cheng, and S. Wei, \u201CAutomatic Spectral Calibration\
+    \ of Hyperspectral Images: Method, Dataset and Benchmark,\u201D arXiv preprint\
+    \ arXiv:2412.14925, 2024. [Online]. Available: https://arxiv.org/abs/2412.14925"
+  size: 512x512
+  spectral_resolution: 3nm
+  task: calibration
+  url: https://github.com/duranze/Automatic-spectral-calibration-of-HSI
+  wavelength: 400-1000
+  year: 2024
+- bands: '96'
+  dataset: Living Optics Orchard Dataset
+  images: '435'
+  ref: "S. Cho, E. Sheppard, E. Castello, A. Spanellis, D. Pearce, and S. Chappell,\
+    \ \"A case study on the integration of a snapshot hyperspectral field-portable\
+    \ imager solving fruit quality assessment,\" in Photonic Instrumentation Engineering\
+    \ XII, vol. 13373, pp. 15\u201346, SPIE, Mar. 2025."
+  size: '-'
+  spectral_resolution: '-'
+  task: segmentation
+  url: https://huggingface.co/datasets/LivingOptics/hyperspectral-orchard
+  wavelength: 440-900
+  year: 2024
+- bands: '224'
+  dataset: hyperspectral image datasets-almond, pistachio, and garlic stems
+  images: 12?
+  ref: J. Lee, M. Kim, J. Yoon, K. Yoo and S.-J. Byun, "Anomaly detection with hyperspectral
+    imaging for food safety inspection", 2024.
+  size: 400x512
+  spectral_resolution: '-'
+  task: anomaly detection
+  url: https://ieee-dataport.org/documents/anomaly-detection-hyperspectral-imaging-food-safety-inspection
+  wavelength: 400-1000
+  year: 2024
+- bands: '20'
+  dataset: Hydrocarbon Spill Hyperspectral Dataset
+  images: '116'
+  ref: 'David Rivas-Lalaleo, Carlos Hernandez, December 5, 2024, "Hydrocarbon Spill
+    Hyperspectral Dataset (HSHD", IEEE Dataport, doi: https://dx.doi.org/10.21227/4etm-h961.'
+  size: 1024x1024
+  spectral_resolution: '-'
+  task: classification
+  url: https://ieee-dataport.org/documents/hydrocarbon-spill-hyperspectral-dataset-hshd
+  wavelength: 400-1000
+  year: 2024
+- bands: '204'
+  dataset: Hyperspectral image dataset of unstructured terrains for UGV perception
+  images: '137'
+  ref: 'Dhanushka Liyanage, Mart Tamre, Robert Hudjakov, February 3, 2024, "Hyperspectral
+    image dataset of unstructured terrains for UGV perception", IEEE Dataport, doi:
+    https://dx.doi.org/10.21227/13bf-pa49.'
+  size: 512x512
+  spectral_resolution: '7'
+  task: classification, segmentation
+  url: https://ieee-dataport.org/documents/hyperspectral-image-dataset-unstructured-terrains-ugv-perception
+  wavelength: 400-1000
+  year: 2024
+- bands: '-'
+  dataset: Living Optics Hyperspectral Fruit Dataset
+  images: '100'
+  ref: 'Living Optics, "hyperspectral-fruit," Hugging Face, 2024. [Online]. Available:
+    https://huggingface.co/datasets/LivingOptics/hyperspectral-fruit. [Accessed: Apr.
+    22, 2025].
+
+    '
+  size: '-'
+  spectral_resolution: '-'
+  task: classification, segmentation
+  url: https://huggingface.co/datasets/LivingOptics/hyperspectral-fruit
+  wavelength: 440-900?
+  year: 2024
+- bands: 200?
+  dataset: DeepHS Debris
+  images: '860'
+  ref: 'Frank, H., Vetter, K., Varga, L.A., Wolff, L., Zell, A. (2025). Hyperspectral
+    Imaging for Characterization of Construction Waste Material in Recycling Applications.
+    In: Antonacopoulos, A., Chaudhuri, S., Chellappa, R., Liu, CL., Bhattacharya,
+    S., Pal, U. (eds) Pattern Recognition. ICPR 2024. Lecture Notes in Computer Science,
+    vol 15316. Springer, Cham. https://doi.org/10.1007/978-3-031-78444-6_11'
+  size: '-'
+  spectral_resolution: '-'
+  task: classification
+  url: https://cogsys.cs.uni-tuebingen.de/webprojects/DeepHS-Debris-2024-Datasets/
+  wavelength: 400-1700
+  year: 2024
+- bands: '299'
+  dataset: HyperPRI
+  images: '748'
+  ref: "S. J. Chang\_et al., \u201CHyperPRI: A Dataset of Hyperspectral Images for\
+    \ Underground Plant Root Study.\u201D Harvard Dataverse, 2023. doi: doi:10.7910/DVN/MAYDHT.\_"
+  size: '-'
+  spectral_resolution: '2'
+  task: segmentation
+  url: https://github.com/GatorSense/HyperPRI?tab=readme-ov-file
+  wavelength: 400-1000
+  year: 2023
+- bands: '16'
+  dataset: HOD3K
+  images: '3242'
+  ref: "X. He, C. Tang, X. Liu, W. Zhang, K. Sun and J. Xu, \"Object Detection in\
+    \ Hyperspectral Image via Unified Spectral\u2013Spatial Feature Aggregation,\"\
+    \ in\_IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-13, 2023,\
+    \ Art no. 5521213, doi: 10.1109/TGRS.2023.3307288.\_"
+  size: 512x256
+  spectral_resolution: '-'
+  task: object detection
+  url: https://github.com/hexiao0275/S2ADet
+  wavelength: 470-620
+  year: 2023
+- bands: '33'
+  dataset: UWA Hyperspectral Face Database
+  images: '120'
+  ref: 'Muhammad Uzair, Zohaib Khan, Arif Mahmood, Faisal Shafait, Ajmal Mian, March
+    28, 2023, "UWA Hyperspectral Face Database", IEEE Dataport, doi: https://dx.doi.org/10.21227/8714-kx37.'
+  size: .nan
+  spectral_resolution: '10'
+  task: face recognition
+  url: https://ieee-dataport.org/documents/uwa-hyperspectral-face-database
+  wavelength: 400-720
+  year: 2023
+- bands: '448'
+  dataset: Hyper-Skin
+  images: '330'
+  ref: 'Pai Chet Ng, Zhixiang Chi, Yannick Verdie, Juwei Lu, and Konstantinos N. Plataniotis,
+    "Hyper-Skin: a hyperspectral dataset for reconstructing facial skin-spectra from
+    RGB images," Proceedings of the 37th International Conference on Neural Information
+    Processing Systems (NeurIPS 2023), New Orleans, LA, USA, 2023, Art. no. 1050,
+    pp. 1-13.'
+  size: 1024x1024
+  spectral_resolution: '1.34'
+  task: hsi reconstruction
+  url: https://hyper-skin-2023.github.io/
+  wavelength: 400-1000
+  year: 2023
+- bands: '-'
+  dataset: DeepHS Fruit v2
+  images: '4671'
+  ref: "L. A. Varga, J. Makowski and A. Zell, \"Measuring the Ripeness of Fruit with\
+    \ Hyperspectral Imaging and Deep Learning,\"\_2021 International Joint Conference\
+    \ on Neural Networks (IJCNN), Shenzhen, China, 2021, pp. 1-8, doi: 10.1109/IJCNN52387.2021.9533728."
+  size: '-'
+  spectral_resolution: 3/3/2
+  task: classification
+  url: https://github.com/cogsys-tuebingen/deephs_fruit
+  wavelength: 400-1000/920-1727/408-900
+  year: 2023
+- bands: '204'
+  dataset: MobiSpectral
+  images: '346'
+  ref: "N. Sharma, M. S. Waseem, S. Mirzaei, and M. Hefeeda, \u201CMobiSpectral: Hyperspectral\
+    \ Imaging on Mobile Devices,\u201D in Proc. 29th Annu. Int. Conf. Mobile Computing\
+    \ and Networking (ACM MobiCom), Madrid, Spain, 2023, doi: 10.1145/3570361.3613296."
+  size: 512x512
+  spectral_resolution: '-'
+  task: hsi reconstruction
+  url: https://github.com/mobispectral/mobicom23_mobispectral/
+  wavelength: 400-1000
+  year: 2023
+- bands: '128'
+  dataset: HSICityV2
+  images: '1330'
+  ref: "Y. Huang, T. Ren, Q. Shen, Y. Fu, and S. You, \u201CHSICityV2: Urban Scene\
+    \ Understanding via Hyperspectral Images,\u201D Zenodo, 2021. [Online]. Available:\
+    \ https://doi.org/10.5281/zenodo.703085"
+  size: 1889x1422
+  spectral_resolution: '-'
+  task: segmentation
+  url: https://isis-data.science.uva.nl/cv/HyperspectralCityV2.0/
+  wavelength: 450-950
+  year: 2022
+- bands: '204'
+  dataset: LIB-HSI
+  images: '513'
+  ref: "N. Habili, E. Kwan, W. Li, C. Webers, J. Oorloff, M. A. Armin, and L. Petersson,\
+    \ \u201CA hyperspectral and RGB dataset for building fa\xE7ade segmentation,\u201D\
+    \ in Proc. ECCV 2022 Workshops, Tel Aviv, Israel, Oct. 23\u201327, 2022, Part\
+    \ VII, pp. 258\u2013267, Springer, 2023."
+  size: 512x512
+  spectral_resolution: '-'
+  task: classification, segmentation
+  url: https://data.csiro.au/collection/csiro%3A55630v4
+  wavelength: 400-1000
+  year: 2022
+- bands: '256'
+  dataset: HFD100
+  images: '10738'
+  ref: "Y. Zheng, T. Zhang, and Y. Fu, \u201CA large-scale hyperspectral dataset for\
+    \ flower classification,\u201D Knowledge-Based Systems, vol. 236. Elsevier BV,\
+    \ p. 107647, Jan. 2022. doi: 10.1016/j.knosys.2021.107647.\n"
+  size: 696x520
+  spectral_resolution: '2.73'
+  task: classification
+  url: https://github.com/ying-fu/HFD100
+  wavelength: 376.8-1075.8
+  year: 2020
+- bands: '204'
+  dataset: HSIFoodIngr-64
+  images: '3389'
+  ref: "X. Xia, W. Liu, L. Wang and J. Sun, \"HSIFoodIngr-64: A Dataset for Hyperspectral\
+    \ Food-Related Studies and a Benchmark Method on Food Ingredient Retrieval,\"\
+    \ in\_IEEE Access, vol. 11, pp. 13152-13162, 2023, doi: 10.1109/ACCESS.2023.3243243.\_"
+  size: 512x512
+  spectral_resolution: '-'
+  task: classification, segmentation
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E7WDNQ
+  wavelength: 400-1000
+  year: 2022
+- bands: '31'
+  dataset: ARAD 1K
+  images: '1000'
+  ref: "B. Arad\_et al., \"NTIRE 2022 Spectral Recovery Challenge and Data Set,\"\_\
+    2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops\
+    \ (CVPRW), New Orleans, LA, USA, 2022, pp. 862-880, doi: 10.1109/CVPRW56347.2022.00102."
+  size: 482x512
+  spectral_resolution: '-'
+  task: hsi reconstruction
+  url: https://github.com/boazarad/ARAD_1K?tab=readme-ov-file
+  wavelength: 400-700
+  year: 2022
+- bands: '164'
+  dataset: TOHS Dataset
+  images: '100'
+  ref: "A. Stone, S. P. Rao, S. Rajeev, K. Panetta and S. Agaian, \"A Comprehensive\
+    \ 2D + 3D Dataset for Benchmarking Hyperspectral Imaging Systems,\"\_2022 IEEE\
+    \ International Symposium on Technologies for Homeland Security (HST), Boston,\
+    \ MA, USA, 2022, pp. 1-5, doi: 10.1109/HST56032.2022.10024982."
+  size: 410x410
+  spectral_resolution: '4'
+  task: 3D reconstruction
+  url: https://ieee-dataport.org/documents/tufts-outdoor-hyperspectral-dataset
+  wavelength: 350-1002
+  year: 2022
+- bands: '-'
+  dataset: Pasta Dataset
+  images: 50?
+  ref: "Bonifazi, Giuseppe; Gasbarrone, Riccardo; Capobianco, Giuseppe; Serranti,\
+    \ Silvia (2021), \u201CA dataset of Visible \u2013 Short Wave InfraRed reflectance\
+    \ spectra collected on pre-cooked pasta products\u201D, Mendeley Data, V2, doi:\
+    \ 10.17632/yhyzmp8rtb.2"
+  size: '-'
+  spectral_resolution: '-'
+  task: classification, regression
+  url: https://data.mendeley.com/datasets/yhyzmp8rtb/2
+  wavelength: 350-2500
+  year: 2021
+- bands: '128'
+  dataset: HSI-1
+  images: '454'
+  ref: "L. Yan, M. Zhao, X. Wang, Y. Zhang and J. Chen, \"Object Detection in Hyperspectral\
+    \ Images,\" in\_IEEE Signal Processing Letters, vol. 28, pp. 508-512, 2021, doi:\
+    \ 10.1109/LSP.2021.3059204."
+  size: 696x860
+  spectral_resolution: '0.58'
+  task: object detection
+  url: https://github.com/yanlongbinluck/HSI-Object-Detection-NPU
+  wavelength: 400-1000
+  year: 2021
+- bands: '29'
+  dataset: OMHS
+  images: '10666'
+  ref: 'Jonathan Hauser, Gal Shtendel, Amit Zeligman, Amir Averbuch, Menachem Nathan,
+    Moshe Salhov, May 5, 2021, "OMHS - The Objects Mosaic Hyperspectral Database",
+    IEEE Dataport, doi: https://dx.doi.org/10.21227/36g6-r506.'
+  size: 256x256
+  spectral_resolution: '-'
+  task: hsi reconstruction
+  url: https://ieee-dataport.org/documents/omhs-objects-mosaic-hyperspectral-database
+  wavelength: 420-700
+  year: 2021
+- bands: '-'
+  dataset: Ladybird Cobbitty 2017 Brassica Dataset
+  images: '-'
+  ref: "A. Bender, B. Whelan, and S. Sukkarieh, \u201CA high-resolution, multimodal\
+    \ data set for agricultural robotics: A Ladybird's-eye view of Brassica,\u201D\
+    \ J. Field Robot., vol. 37, no. 1, pp. 73\u201396, 2020, doi: 10.1002/rob.21877."
+  size: '-'
+  spectral_resolution: '-'
+  task: classification, object detection, segmentation
+  url: http://hdl.handle.net/2123/20187
+  wavelength: '-'
+  year: 2020
+- bands: '25'
+  dataset: HSI Road
+  images: '3799'
+  ref: "J. Lu, H. Liu, Y. Yao, S. Tao, Z. Tang and J. Lu, \"Hsi Road: A Hyper Spectral\
+    \ Image Dataset For Road Segmentation,\"\_2020 IEEE International Conference on\
+    \ Multimedia and Expo (ICME), London, UK, 2020, pp. 1-6, doi: 10.1109/ICME46284.2020.9102890."
+  size: 192x384
+  spectral_resolution: '-'
+  task: segmentation
+  url: https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road
+  wavelength: 680-960
+  year: 2020
+- bands: '-'
+  dataset: Near Infrared Hyperspectral Image Dataset
+  images: '96'
+  ref: "hacarus, \u201CGitHub - hacarus/hsi-open-dataset,\u201D\_GitHub, 2020. https://github.com/hacarus/hsi-open-dataset\
+    \ (accessed Apr. 19, 2025)."
+  size: 192x256
+  spectral_resolution: '9.8'
+  task: classification
+  url: https://github.com/hacarus/hsi-open-dataset
+  wavelength: 1300-2150
+  year: 2020
+- bands: .nan
+  dataset: TokyoTech 59-band Visible-NIR Hyperspectral Image Dataset
+  images: .nan
+  ref: "Y. Monno, H. Teranaka, K. Yoshizaki, M. Tanaka, and M. Okutomi, \u201CSingle-sensor\
+    \ RGB-NIR imaging: High-quality system design and prototype implementation,\u201D\
+    \ IEEE Sens. J., vol. 19, no. 2, pp. 497\u2013507, 2018."
+  size: .nan
+  spectral_resolution: .nan
+  task: .nan
+  url: http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html
+  wavelength: .nan
+  year: 2019
+- bands: .nan
+  dataset: Dataset for Hyperspectral Clinical Applications
+  images: .nan
+  ref: "Himar Fabelo, Samuel Ortega, Raquel Le\xF3n, Gustavo Callico, August 28, 2019,\
+    \ \"Dataset: Parallel Implementations Assessment of a Spatial-Spectral Classifier\
+    \ for Hyperspectral Clinical Applications\", IEEE Dataport, doi: https://dx.doi.org/10.21227/pn25-nj87."
+  size: .nan
+  spectral_resolution: .nan
+  task: classification
+  url: https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral
+  wavelength: .nan
+  year: 2019
+- bands: .nan
+  dataset: Cocoa beans spectral image
+  images: .nan
+  ref: 'Carlos Hinojosa, Karen Sanchez, Hans Garcia, Henry Arguello, December 10,
+    2019, "Cocoa beans spectral image with three fermentation levels", IEEE Dataport,
+    doi: https://dx.doi.org/10.21227/esks-4b74.'
+  size: .nan
+  spectral_resolution: .nan
+  task: classification
+  url: https://ieee-dataport.org/documents/cocoa-beans-spectral-image-three-fermentation-levels
+  wavelength: .nan
+  year: 2019
+- bands: .nan
+  dataset: GHIFVD
+  images: .nan
+  ref: "R. Ennis, F. Schiller, M. Toscani, and K. R. Gegenfurtner, \u201CHyperspectral\
+    \ database of fruits and vegetables,\u201D Journal of the Optical Society of America\
+    \ A, vol. 35, no. 4. Optica Publishing Group, p. B256, Mar. 14, 2018. doi: 10.1364/josaa.35.00b256.\n"
+  size: .nan
+  spectral_resolution: .nan
+  task: .nan
+  url: https://www.allpsych.uni-giessen.de/GHIFVD/
+  wavelength: .nan
+  year: 2018
+- bands: .nan
+  dataset: HSIDermoscopy
+  images: .nan
+  ref: "Y. Gu, Y.-P. Partridge, and J. Zhou, \u201CA Hyperspectral Dermoscopy Dataset\
+    \ for Melanoma Detection,\u201D Lecture Notes in Computer Science. Springer International\
+    \ Publishing, pp. 268\u2013276, 2018. doi: 10.1007/978-3-030-01201-4_29.\n"
+  size: .nan
+  spectral_resolution: .nan
+  task: classification
+  url: https://github.com/heugyy/HSIDermoscopy
+  wavelength: .nan
+  year: 2018
+- bands: .nan
+  dataset: HS-SOD (HyperSpectral Salient Object Detection Dataset)
+  images: .nan
+  ref: "N. Imamoglu, Y. Oishi, X. Zhang, G. Ding, Y. Fang, T. Kouyama, and R. Nakamura,\
+    \ \u201CHyperspectral image dataset for benchmarking on salient object detection,\u201D\
+    \ in Proc. 10th Int. Conf. Quality of Multimedia Experience (QoMEX), 2018, pp.\
+    \ 1\u20133, doi: 10.1109/QoMEX.2018.8463428."
+  size: .nan
+  spectral_resolution: .nan
+  task: salient object detection
+  url: https://github.com/gistairc/HS-SOD?tab=readme-ov-file
+  wavelength: .nan
+  year: 2018
+- bands: .nan
+  dataset: HyKo
+  images: .nan
+  ref: "C. Winkens, F. Sattler, V. Adams and D. Paulus, \u201CHyKo: A Spectral Dataset\
+    \ for Scene Understanding,\u201D\_2017 IEEE International Conference on Computer\
+    \ Vision Workshops (ICCVW), Venice, 2017, pp. 254-261."
+  size: .nan
+  spectral_resolution: .nan
+  task: scene understanding
+  url: https://wp.uni-koblenz.de/hyko/
+  wavelength: .nan
+  year: 2017
+- bands: .nan
+  dataset: ICVL
+  images: .nan
+  ref: "B. Arad and O. Ben-Shahar, \u201CSparse Recovery of Hyperspectral Signal from\
+    \ Natural RGB Images,\u201D\_Computer Vision \u2013 ECCV 2016, pp. 19\u201334,\
+    \ 2016, doi: https://doi.org/10.1007/978-3-319-46478-7_2."
+  size: .nan
+  spectral_resolution: .nan
+  task: hsi reconstruction
+  url: https://huggingface.co/datasets/danaroth/icvl
+  wavelength: .nan
+  year: 2016
+- bands: .nan
+  dataset: Real-World Hyperspectral Images Database
+  images: .nan
+  ref: "A. Chakrabarti and T. Zickler, \"Statistics of real-world hyperspectral images,\"\
+    \_CVPR 2011, Colorado Springs, CO, USA, 2011, pp. 193-200, doi: 10.1109/CVPR.2011.5995660."
+  size: .nan
+  spectral_resolution: .nan
+  task: .nan
+  url: https://vision.seas.harvard.edu/hyperspec/download.html
+  wavelength: .nan
+  year: 2011
+- bands: .nan
+  dataset: Tecnalia Hyperspectral Dataset
+  images: .nan
+  ref: "A. Picon, O. Ghita, P. M. Iriondo, A. Bereciartua and P. F. Whelan, \"Automation\
+    \ of waste recycling using hyperspectral image analysis,\"\_2010 IEEE 15th Conference\
+    \ on Emerging Technologies & Factory Automation (ETFA 2010), Bilbao, Spain, 2010,\
+    \ pp. 1-4, doi: 10.1109/ETFA.2010.5641201."
+  size: .nan
+  spectral_resolution: .nan
+  task: classification
+  url: https://zenodo.org/records/12565131
+  wavelength: .nan
+  year: 2010
+- bands: .nan
+  dataset: CAVE
+  images: .nan
+  ref: "F. Yasuma, T. Mitsunaga, D. Iso and S. K. Nayar, \"Generalized Assorted Pixel\
+    \ Camera: Postcapture Control of Resolution, Dynamic Range, and Spectrum,\" in\_\
+    IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2241-2253, Sept. 2010,\
+    \ doi: 10.1109/TIP.2010.2046811."
+  size: .nan
+  spectral_resolution: .nan
+  task: .nan
+  url: https://cave.cs.columbia.edu/repository/Multispectral
+  wavelength: .nan
+  year: 2008
