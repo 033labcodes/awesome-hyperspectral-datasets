@@ -28,7 +28,6 @@ $(document).ready(function() {
 function initializeTable() {
 	loadTableData();
 	setupSorting();
-    setupSearch();
 }
 
 function loadTableData() {
@@ -44,11 +43,13 @@ function loadTableData() {
 				const datasets = jsyaml.load(yamlText);
                 allDatasets = datasets;
 				renderTable(datasets);
+				setupSearch();
 			} catch (parseError) {
 				console.error('YAML parsing error:', parseError);
 				const datasets = parseYAMLSimple(yamlText);
                 allDatasets = datasets;
 				renderTable(datasets);
+				setupSearch();
 			}
 		})
 		.catch(error => {
