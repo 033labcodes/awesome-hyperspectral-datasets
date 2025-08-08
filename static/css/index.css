@@ -203,7 +203,28 @@ body {
   text-decoration: underline;
 }
 
+/* Search */
+#search-input {
+  border-radius: 25px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
 
+#search-input:focus {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  border-color: #3273dc;
+}
+
+#search-input::placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+#datasets-table tbody tr td[colspan] {
+  color: #666;
+  font-style: italic;
+  padding: 2rem !important;
+}
 
 
 /* Responsible */

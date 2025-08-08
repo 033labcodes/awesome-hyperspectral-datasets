@@ -1,6 +1,8 @@
 window.HELP_IMPROVE_VIDEOJS = false;
 
 
+let allDatasets = [];
+
 $(document).ready(function() {
     // Check for click events on the navbar burger icon
 
@@ -26,7 +28,9 @@ $(document).ready(function() {
 function initializeTable() {
 	loadTableData();
 	setupSorting();
+    setupSearch();
 }
+
 function loadTableData() {
 	fetch('https://033labcodes.github.io/awesome-hyperspectral-datasets/datasets.yaml')
 		.then(response => {
@@ -38,10 +42,12 @@ function loadTableData() {
 		.then(yamlText => {
 			try {
 				const datasets = jsyaml.load(yamlText);
+                allDatasets = datasets;
 				renderTable(datasets);
 			} catch (parseError) {
 				console.error('YAML parsing error:', parseError);
 				const datasets = parseYAMLSimple(yamlText);
+                allDatasets = datasets;
 				renderTable(datasets);
 			}
 		})
@@ -123,6 +129,39 @@ function setupSorting() {
             sortTable(sortKey, newOrder);
         });
     });
+}
+
+function setupSearch() {
+    const searchInput = document.getElementById('search-input');
+    searchInput.addEventListener('input', function() {
+        const searchValue = this.value.toLowerCase().trim();
+        filterDatasets(searchValue);
+    });
+}
+
+function filterDatasets(searchValue) {
+    if (!searchValue) {
+        renderTable(allDatasets);
+        return;
+    }
+    
+    const filteredDatasets = allDatasets.filter(dataset => {
+        const searchableFields = [
+            dataset.dataset || '',
+            dataset.task || '',
+            dataset.year || '',
+            dataset.images || '',
+            dataset.size || '',
+            dataset.bands || '',
+            dataset.wavelength || '',
+        ].map(field => field.toString().toLowerCase().trim());
+        
+        return searchableFields.some(field => 
+            field.includes(searchValue)
+        );
+    });
+
+    renderTable(filteredDatasets);
 }
 
 function sortTable(sortKey, order) {
