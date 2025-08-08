@@ -28,7 +28,7 @@ function initializeTable() {
 	setupSorting();
 }
 function loadTableData() {
-	fetch('datasets.yaml')
+	fetch('./datasets.yaml')
 		.then(response => {
 			if (!response.ok) {
 				throw new Error(`HTTP error! status: ${response.status}`);
