@@ -427,9 +427,9 @@
   url: https://github.com/hacarus/hsi-open-dataset
   wavelength: 1300-2150
   year: 2020
-- bands: .nan
+- bands: '59'
   dataset: TokyoTech 59-band Visible-NIR Hyperspectral Image Dataset
-  images: .nan
+  images: '16'
   ref: "Y. Monno, H. Teranaka, K. Yoshizaki, M. Tanaka, and M. Okutomi, \u201CSingle-sensor\
     \ RGB-NIR imaging: High-quality system design and prototype implementation,\u201D\
     \ IEEE Sens. J., vol. 19, no. 2, pp. 497\u2013507, 2018."
@@ -437,15 +437,15 @@
   spectral_resolution: .nan
   task: .nan
   url: http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html
-  wavelength: .nan
+  wavelength: 400-1000
   year: 2019
-- bands: .nan
+- bands: '100'
   dataset: Dataset for Hyperspectral Clinical Applications
-  images: .nan
+  images: '3'
   ref: "Himar Fabelo, Samuel Ortega, Raquel Le\xF3n, Gustavo Callico, August 28, 2019,\
     \ \"Dataset: Parallel Implementations Assessment of a Spatial-Spectral Classifier\
     \ for Hyperspectral Clinical Applications\", IEEE Dataport, doi: https://dx.doi.org/10.21227/pn25-nj87."
-  size: .nan
+  size: 1000x1000
   spectral_resolution: .nan
   task: classification
   url: https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral
