@@ -150,17 +150,15 @@
 
 [^46]: F. Yasuma, T. Mitsunaga, D. Iso and S. K. Nayar, "Generalized Assorted Pixel Camera: Postcapture Control of Resolution, Dynamic Range, and Spectrum," in IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2241-2253, Sept. 2010, doi: 10.1109/TIP.2010.2046811.
 
-## Maintainer Information
-This repository is maintained by **[033 Laboratory](https://033lab.org/#)** at Tokyo Denki University. 
-The following individuals are responsible for maintaining this repository:
+## Contact Information
+This repository is maintained by the **[Visual Perception and Recognition Laboratory (VPRL)](https://033lab.org/#)** at Tokyo Denki University.
 
-- **Keita Ogawa**
-    -  Email: 25amj08@ms.dendai.ac.jp
+For inquiries regarding this repository, please contact:
 
-- **Youta Noboru**
-    -  Email: 24amj29@ms.dendai.ac.jp   
+**Yuko Ozasa, Ph.D.** Associate Professor at Tokyo Denki University, Japan  
+Email: ozasa@mail.dendai.ac.jp
 
-If you have any questions or suggestions, please feel free to contact the maintainers via the provided email address or by openng an issue in this repository.
+This repository was compiled by Youta Noboru and Keita Ogawa, students at VPRL.
 
 ## Acknowledgements
 We would like to express our sincere gratitude to the researchers, institutions, and organizations who have contributed to the development and sharing of hyperspectral datasets. 
