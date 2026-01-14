@@ -39,8 +39,8 @@
 | Ladybird Cobbitty 2017 Brassica Dataset[^33] | 2020 | classification<br>object detection<br>segmentation | [http://hdl.handle.net/2123/20187](http://hdl.handle.net/2123/20187) | - | - | - | - | - |
 | HSI Road[^34] | 2020 | segmentation | [https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road) | 3799 | 192x384 | 25 | 680-960 | - |
 | HFD100[^35] | 2020 | classification | [https://github.com/ying-fu/HFD100](https://github.com/ying-fu/HFD100) | 10738 | 696x520 | 256 | 376.8-1075.8 | 2.73 |
-| TokyoTech 59-band Visible-NIR Hyperspectral Image Dataset[^36] | 2019 | - | [http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html](http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html) | - | - | - | - | - |
-| Dataset for Hyperspectral Clinical Applications[^37] | 2019 | classification | [https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral](https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral) | - | - | - | - | - |
+| TokyoTech 59-band Visible-NIR Hyperspectral Image Dataset[^36] | 2019 | - | [http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html](http://www.ok.sc.e.titech.ac.jp/res/MSI/MSIdata59.html) | 16 | - | 59 | 400-1000 | - |
+| Dataset for Hyperspectral Clinical Applications[^37] | 2019 | classification | [https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral](https://ieee-dataport.org/open-access/dataset-parallel-implementations-assessment-spatial-spectral-classifier-hyperspectral) | 3 | 1000x1000 | 100 | - | - |
 | Cocoa beans spectral image[^38] | 2019 | classification | [https://ieee-dataport.org/documents/cocoa-beans-spectral-image-three-fermentation-levels](https://ieee-dataport.org/documents/cocoa-beans-spectral-image-three-fermentation-levels) | - | - | - | - | - |
 | HSIDermoscopy[^39] | 2018 | classification | [https://github.com/heugyy/HSIDermoscopy](https://github.com/heugyy/HSIDermoscopy) | - | - | - | - | - |
 | HS-SOD (HyperSpectral Salient Object Detection Dataset)[^40] | 2018 | salient object detection | [https://github.com/gistairc/HS-SOD?tab=readme-ov-file](https://github.com/gistairc/HS-SOD?tab=readme-ov-file) | - | - | - | - | - |
@@ -150,17 +150,15 @@
 
 [^46]: F. Yasuma, T. Mitsunaga, D. Iso and S. K. Nayar, "Generalized Assorted Pixel Camera: Postcapture Control of Resolution, Dynamic Range, and Spectrum," in IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2241-2253, Sept. 2010, doi: 10.1109/TIP.2010.2046811.
 
-## Maintainer Information
-This repository is maintained by **[033 Laboratory](https://033lab.org/#)** at Tokyo Denki University. 
-The following individuals are responsible for maintaining this repository:
+## Contact Information
+This repository is maintained by the **[Visual Perception and Recognition Laboratory (VPRL)](https://033lab.org/#)** at Tokyo Denki University.
 
-- **Keita Ogawa**
-    -  Email: 25amj08@ms.dendai.ac.jp
+For inquiries regarding this repository, please contact:
 
-- **Youta Noboru**
-    -  Email: 24amj29@ms.dendai.ac.jp   
+**Yuko Ozasa, Ph.D.** Associate Professor at Tokyo Denki University, Japan  
+Email: ozasa@mail.dendai.ac.jp
 
-If you have any questions or suggestions, please feel free to contact the maintainers via the provided email address or by openng an issue in this repository.
+This repository was compiled by Youta Noboru and Keita Ogawa, students at VPRL.
 
 ## Acknowledgements
 We would like to express our sincere gratitude to the researchers, institutions, and organizations who have contributed to the development and sharing of hyperspectral datasets. 
